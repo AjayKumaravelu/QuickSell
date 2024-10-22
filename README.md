@@ -60,6 +60,8 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 
 
 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -115,5 +117,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 ![Desktop Screenshot 4](./preview/Desktop-User-Title.png)
 ![Desktop Screenshot 5](./preview/Desktop-Priority-Priority.png)
 ![Desktop Screenshot 6](./preview/Desktop-Priority-Title.png)
-
-
